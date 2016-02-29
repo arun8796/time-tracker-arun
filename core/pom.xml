@@ -6,7 +6,7 @@
         <groupId>training.time-tracker</groupId>
         <artifactId>time-tracker-parent</artifactId>
         <version>0.3.1-SNAPSHOT</version>
-    <parent>
+    </parent>
 
     <artifactId>time-tracker-core</artifactId>
     <packaging>jar</packaging>
