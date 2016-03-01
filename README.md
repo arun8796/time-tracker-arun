@@ -7,3 +7,4 @@ This purpose of this project is to show how to use Maven and Jenkins together.
 
 #purposely edited the file
 to test the changes using POLL SCM
+second test
